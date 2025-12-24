@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: Jackson dos Santos Ventura  
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Jackson dos Santos Ventura. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Jackson dos Santos Ventura. O objetivo do projeto é elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## **Arquitetura da Solução AWS**
 
@@ -27,14 +27,13 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 - Acesso rápido às informações de estoque
 - Redução de latência na busca de produtos
 - Suporte a grandes volumes de dados operacionais
-- Possibilidade de integração com sistemas de ERP e controle logístico
+- Possibilidade de integração com sistemas de ERP(Enterprise Resource Planning) Planejamento de Recursos Empresariais e controle logístico
 
 **Ganho operacional e financeiro:**
 
 - Melhor organização do estoque
 - Menor tempo de separação e expedição de produtos
 - Infraestrutura escalável conforme a demanda, evitando custos desnecessários em períodos de menor uso
-- Essa é a base da operação, garantindo performance e estabilidade para o restante da arquitetura.
 
 Essa é a base da operação, garantindo performance e estabilidade para o restante da arquitetura.
 
